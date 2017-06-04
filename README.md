@@ -1,2 +1,3 @@
 # earowang.github.io
-Place to host my R packages
+
+The repo hosts the documentations of my R packages.
